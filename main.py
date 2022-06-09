@@ -33,15 +33,8 @@ def checkForWinner(playerHand, computerHand):
         print("It's a tie, play again!")
         return "Tie"
 
-# git init
- git add .
-git commit -m "pythonclass"
-# git remote add origin https://github.com/kedei01/pythonclass.git
-# git push -u origin master or git push -f origin master
-# ### Start game loop
-# git push -f origin main
-# git remote set-url origin https://github.com/kedei01/pythonclass.git
-# $ git remote -v
+
+
 while (playerScore != 3 and cpuScore != 3):
     ### Validate input
     while True:
