@@ -60,3 +60,4 @@ while (playerScore != 3 and cpuScore != 3):
     print("Your score: ", playerScore, "CPU: ", cpuScore, "Ties: ", tieScore)
 
 print("Game over! Thank you for playing :)")
+
